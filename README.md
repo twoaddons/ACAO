@@ -8,3 +8,4 @@
 <info>O The Hollywood Reporter anunciou nesta quarta-feira (30) que a Warner Bros definiu a data de estreia do novo filme de animação baseado em propriedades da DC: Super Pets.</info>
 </item> 
 **********
+
