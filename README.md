@@ -11,11 +11,11 @@
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] Assassino Sem Rastro [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GVL2QAXHHUC5KUGMCKOACF2KJ6TF7YR5</link>
+<thumbnail>https://abutretorrents.com/imagens/assassino-sem-rastro-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info> Em Assassino Sem Rastro, Alex Lewis (Liam Neeson) é um assassino experiente com reputação de precisão discreta. Ele planeja se aposentar logo, mas recebe uma última tarefa antes que consiga realizar tal desejo de vida. O alvo é simples: uma pessoa. Isso até que descobre que o alvo é uma garota. Preso em um dilema moral, Alex se recusa a concluir um trabalho que viola seu código de ética e então pede para cancelar tal contrato. Mas descobre que a garota foi morta por outro assassino. Isso o coloca contra o agente do FBI Vincent Serra (Guy Pearce), quem reabilitou a menina depois que seu pai foi morto. Ao se voltar contra o FBI, bem como as outras pessoas que estão atrás de Serra, Alex se propõe a eliminar os traficantes de crianças, mas sua grave perda de memória acaba sendo prejudicial para sua saúde e missão. Com o objetivo de se vingar, mas com a saúde violada ele é forçado a questionar todas as suas ações, se perdendo na linha entre o certo e o errado.</info>
 </item> 
 *************************************
 
