@@ -21,21 +21,21 @@
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B]  Carter [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9be3de7cf56b6766ed4f26425fbec1b7911dd960</link>
+<thumbnail>https://abutretorrents.com/imagens/carter-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info> Meu nome é Carter. Por favor, confie em mim, se quiser sobreviver. Uma pandemia originada na Zona Desmilitarizada da Coreia assola os Estados Unidos e a Coreia do Norte. Dois meses depois, Carter acorda sem memória, com um dispositivo misterioso na cabeça, uma bomba letal dentro da boca e recebendo ordens de uma voz estranha. A bomba pode ser detonada a qualquer momento, a menos que ele resgate a garota que é o único antídoto para o vírus. Mas, para isso, ele vai ter que encarar a CIA e um golpe na Coreia do Norte. Para concluir a missão, Carter precisa ir para o Norte e encontrar a garota. Este filme de ação em plano sequência acompanha a luta de um homem pela sobrevivência.</info>
 </item> 
 *************************************
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] Caçando Ava Bravo [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM</link>
+<thumbnail>https://abutretorrents.com/imagens/cacando-ava-bravo-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info>Buddy King, um bilionário excêntrico, passo seu tempo caçando pessoas escondido nas montanhas nevadas. Mas sua última vítima, Ava Bravo, não será um alvo fácil.</info>
 </item> 
 *************************************
 
